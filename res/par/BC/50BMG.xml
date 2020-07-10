@@ -1,0 +1,20 @@
+<parameters>
+<b id="0">.510 in (13.0 mm)</b><!--Bullet Diameter:-->
+<b id="1">.560 in (14.2 mm)</b><!--Neck Diameter:-->
+<b id="2">.735 in (18.7 mm)</b><!--Shoulder Diameter:-->
+<b id="3">.804 in (20.4 mm)</b><!--Base Diameter:-->
+<b id="4">.804 in (20.4 mm)</b><!--Rim Diameter:-->
+<b id="5">.083 in (2.1 mm)</b><!--Rim Thickness:-->
+<b id="6">3.91 in (99 mm)</b><!--Case Length:-->
+<b id="7">5.45 in (138 mm)</b><!--Overall Length:-->
+<b id="8">292.8 gr H2O (18.97 cm3)</b><!--Case Capacity:-->
+
+<b id="14"> (#35 Arsenal Primer)</b>
+<!--
+id="9">Primer Small Pistol
+id="10">Primer Large Pistol
+id="11">Primer Small Rifle
+id="12">Primer Large Rifle
+id="13">Rimfire
+-->
+</parameters>	
