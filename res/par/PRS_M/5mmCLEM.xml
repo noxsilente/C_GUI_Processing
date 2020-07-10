@@ -1,0 +1,20 @@
+<parameters>
+<b id="0">0.199 in (5.06 mm)</b><!--Bullet Diameter:-->
+<b id="1">0.22 in (5.58 mm)</b><!--Neck Diameter:-->
+<b id="2">0.277 in (7,03 mm)</b><!--Shoulder Diameter -->
+<b id="3">0.279 in (7.10 mm)</b><!--Base Diameter:-->
+<b id="4">0.279 in (7.10 mm)</b><!--Rim Diameter:-->
+<!--Rim Thickness:-->
+<b id="6">0.712 in (18.1 mm)</b><!--Case Length:-->
+<b id="7">1.003 in (25.48 mm)</b><!--Overall Length:-->
+<!--Case Capacity:-->
+
+
+<!--
+id="9">Primer Small Pistol
+id="10">Primer Large Pistol
+id="11">Primer Small Rifle
+id="12">Primer Large Rifle
+id="13">Rimfire
+-->
+</parameters>

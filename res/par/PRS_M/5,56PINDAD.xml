@@ -1,0 +1,20 @@
+<parameters>
+<b id="0">N/A</b><!--Bullet Diameter:-->
+<b id="1">N/A</b><!--Neck Diameter:-->
+<b id="2">N/A</b><!--Shoulder Diameter -->
+<b id="3">N/A</b><!--Base Diameter:-->
+<b id="4">N/A</b><!--Rim Diameter:-->
+<b id="5">N/A</b><!--Rim Thickness:-->
+<b id="6">N/A</b><!--Case Length:-->
+<b id="7">N/A</b><!--Overall Length:-->
+<!--Case Capacity:-->
+
+
+<!--
+id="9">Primer Small Pistol
+id="10">Primer Large Pistol
+id="11">Primer Small Rifle
+id="12">Primer Large Rifle
+id="13">Rimfire
+-->
+</parameters>
