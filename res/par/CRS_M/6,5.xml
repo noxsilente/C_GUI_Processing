@@ -1,0 +1,21 @@
+<parameters>
+<b id="0">.2644 in (6.72 mm)</b><!--Bullet Diameter:-->
+<b id="1">.2950 in (7.49 mm)</b><!--Neck Diameter:-->
+<b id="2">.4620 in (11.73 mm)</b><!--Shoulder Diameter -->
+<b id="3">.4703 in (11.95 mm)</b><!--Base Diameter:-->
+<b id="4">.4730 in (12.01 mm)</b><!--Rim Diameter:-->
+<b id="5">.054 in (1.4 mm)</b><!--Rim Thickness:-->
+<b id="6">1.920 in (48.8 mm)</b><!--Case Length:-->
+<b id="7">2.825 in (71.8 mm)</b><!--Overall Length:-->
+<b id="8">52.5 gr H2O (3.40 cm3)</b><!--Case Capacity:-->
+
+<b id="11"> (Lapua / Starline Brass)</b>
+<b id="12"> (Alpha Munitions)</b>
+<!--
+id="9">Primer Small Pistol
+id="10">Primer Large Pistol
+id="11">Primer Small Rifle
+id="12">Primer Large Rifle
+id="13">Rimfire
+-->
+</parameters>
