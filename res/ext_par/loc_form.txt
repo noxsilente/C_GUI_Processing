@@ -1,0 +1,7 @@
+<loc>
+<IT></IT>
+<EN></EN>
+<DE></DE>
+<ES></ES>
+<FR></FR>
+</loc>
