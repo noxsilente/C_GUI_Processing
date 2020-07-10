@@ -1,0 +1,475 @@
+<parent>
+<!-- Ammo Rifles inches -->
+<CRS_I obj=".17 HORNADY MachII" ref="res\par\CRS_I\17HM2.xml" ref2="res\ext_par\CRS_I\17HM2.xml" sh="TDW/obj_drw/CRS_I/17HornadyMach2/17HM2" >
+</CRS_I>
+<CRS_I obj=".17 HORNET" ref="res\par\CRS_I\17H.xml" ref2="res\ext_par\CRS_I\17H.xml" sh="TDW/obj_drw/CRS_I/17Hornet/17H" >
+</CRS_I>	
+<CRS_I obj=".17 MACH IV" ref="res\par\CRS_I\17M4.xml" ref2="res\ext_par\CRS_I\17M4.xml" sh="TDW/obj_drw/CRS_I/17MachIV/17MACH4" >
+</CRS_I>
+<CRS_I obj=".17 REMINGTON" ref="res\par\CRS_I\17REM.xml" ref2="res\ext_par\CRS_I\17REM.xml" sh="TDW/obj_drw/CRS_I/17Rem/17REM" >
+</CRS_I>
+<CRS_I obj=".17 WIN. MAG." ref="res\par\CRS_I\17WINMAG.xml" ref2="res\ext_par\CRS_I\17WINMAG.xml" sh="TDW/obj_drw/CRS_I/17WinMag/17WINMAG" >
+</CRS_I>
+<CRS_I obj=".19 CALHOON" ref="res\par\CRS_I\19.xml" ref2="res\ext_par\CRS_I\19.xml" sh="TDW/obj_drw/CRS_I/19Calhoon/19CALHOON" >
+</CRS_I>
+<CRS_I obj=".204 RUGER" ref="res\par\CRS_I\204R.xml" ref2="res\ext_par\CRS_I\204R.xml" sh="TDW/obj_drw/CRS_I/204Ruger/204RUGER" >
+</CRS_I>
+<CRS_I obj=".218 BEE" ref="res\par\CRS_I\218B.xml" ref2="res\ext_par\CRS_I\218B.xml" sh="TDW/obj_drw/CRS_I/218B/218B" >
+</CRS_I>
+<CRS_I obj=".219 ZIPPER" ref="res\par\CRS_I\219Z.xml" ref2="res\ext_par\CRS_I\219Z.xml" sh="TDW/obj_drw/CRS_I/219Z/219Z" >
+</CRS_I>
+<CRS_I obj=".22 EXTRA LONG" ref="res\par\CRS_I\22L+.xml" ref2="res\ext_par\CRS_I\22L+.xml" sh="TDW/obj_drw/CRS_I/22L+/22L+" >
+</CRS_I>
+<CRS_I obj=".22 CHeetah" ref="res\par\CRS_I\22CH.xml" ref2="res\ext_par\CRS_I\22CH.xml" sh="TDW/obj_drw/CRS_I/22CH/22CH" >
+</CRS_I>
+<CRS_I obj=".22 SPITFIRE" ref="res\par\CRS_I\22SPIT.xml" ref2="res\ext_par\CRS_I\22SPIT.xml" sh="TDW/obj_drw/CRS_I/22SPIT/22SPIT" >
+</CRS_I>
+<CRS_I obj=".22 REM. AUTOMATIC" ref="res\par\CRS_I\22REMAUTO.xml" ref2="res\ext_par\CRS_I\22REMAUTO.xml" sh="TDW/obj_drw/CRS_I/22REMAUTO/22REMAUTO" >
+</CRS_I>
+<CRS_I obj=".22 WIN. AUTOMATIC" ref="res\par\CRS_I\22WINAUTO.xml" ref2="res\ext_par\CRS_I\22WINAUTO.xml" sh="TDW/obj_drw/CRS_I/22WINAUTO/22WINAUTO" >
+</CRS_I>
+<CRS_I obj=".22 PPC" ref="res\par\CRS_I\22PPC.xml" ref2="res\ext_par\CRS_I\22PPC.xml" sh="TDW/obj_drw/CRS_I/22PPC/22PPC" >
+</CRS_I>
+<CRS_I obj=".22 WIN. CENTERFIRE" ref="res\par\CRS_I\22WCF.xml" ref2="res\ext_par\CRS_I\22WCF.xml" sh="TDW/obj_drw/CRS_I/22WCF/22WCF" >
+</CRS_I>
+<CRS_I obj=".22 HORNET" ref="res\par\CRS_I\22H.xml" ref2="res\ext_par\CRS_I\22H.xml" sh="TDW/obj_drw/CRS_I/22Hornet/22Hornet" >
+</CRS_I>
+<CRS_I obj=".22 REMINGTON JET" ref="res\par\CRS_I\22REMJ.xml" ref2="res\ext_par\CRS_I\22REMJ.xml" sh="TDW/obj_drw/CRS_I/22RemJet/22REMJET" >
+</CRS_I>
+<CRS_I obj=".22 WIN. MAG. RIFLE" ref="res\par\CRS_I\22WMR.xml" ref2="res\ext_par\CRS_I\22WMR.xml" sh="TDW/obj_drw/CRS_I/22WMR/22WMR" >
+</CRS_I>
+<CRS_I obj=".22 BR REMINGTON" ref="res\par\CRS_I\22BR.xml" ref2="res\ext_par\CRS_I\22BR.xml" sh="TDW/obj_drw/CRS_I/22BR/22BR" >
+</CRS_I>
+<CRS_I obj=".22-250 REMINGTON" ref="res\par\CRS_I\22-250.xml" ref2="res\ext_par\CRS_I\22-250.xml" sh="TDW/obj_drw/CRS_I/22-250/22-250" >
+</CRS_I>
+<CRS_I obj=".22/.303" ref="res\par\CRS_I\303-22.xml" ref2="res\ext_par\CRS_I\303-22.xml" sh="TDW/obj_drw/CRS_I/303-22/303-22" >
+</CRS_I>
+<CRS_I obj=".22 EARGESPLITTEN LOUDENBOOMER" ref="res\par\CRS_I\22EL.xml" ref2="res\ext_par\CRS_I\22EL.xml"  >
+</CRS_I>
+<CRS_I obj=".220 SWIFT" ref="res\par\CRS_I\220S.xml" ref2="res\ext_par\CRS_I\220S.xml" sh="TDW/obj_drw/CRS_I/220Swift/220Swift" >
+</CRS_I>
+<CRS_I obj=".222 REMINGTON" ref="res\par\CRS_I\222REM.xml" ref2="res\ext_par\CRS_I\222REM.xml" sh="TDW/obj_drw/CRS_I/222Rem/222Rem" >
+</CRS_I>
+<CRS_I obj=".222 REM. MAG." ref="res\par\CRS_I\222REMMAG.xml" ref2="res\ext_par\CRS_I\222REMMAG.xml" sh="TDW/obj_drw/CRS_I/222RemMag/222RemMag" >
+</CRS_I>
+<CRS_I obj=".225 WINCHESTER" ref="res\par\CRS_I\225WIN.xml" ref2="res\ext_par\CRS_I\225WIN.xml" sh="TDW/obj_drw/CRS_I/225Win/225WIN" >
+</CRS_I>
+<CRS_I obj=".240 WEATHERBY MAGNUM" ref="res\par\CRS_I\240WM.xml" ref2="res\ext_par\CRS_I\240WM.xml" sh="TDW/obj_drw/CRS_I/240WeatherbyMag/240WM" >
+</CRS_I>
+<CRS_I obj=".240 APEX (H&amp;H) " ref="res\par\CRS_I\240H&amp;H.xml" ref2="res\ext_par\CRS_I\240H&amp;H.xml" sh="TDW/obj_drw/CRS_I/240Apex/240H&amp;H" >
+</CRS_I>
+<CRS_I obj=".243 WINCHESTER" ref="res\par\CRS_I\243WIN.xml" ref2="res\ext_par\CRS_I\243WIN.xml" sh="TDW/obj_drw/CRS_I/243Win/243WIN" >
+</CRS_I>
+<CRS_I obj=".244 REMINGTON" ref="res\par\CRS_I\244REM.xml" ref2="res\ext_par\CRS_I\244REM.xml" sh="TDW/obj_drw/CRS_I/244Rem/244REM" >
+</CRS_I>
+<CRS_I obj=".244 H&amp;H MAGNUM" ref="res\par\CRS_I\244H&amp;H.xml" ref2="res\ext_par\CRS_I\244H&amp;H.xml" sh="TDW/obj_drw/CRS_I/244H&amp;HMag/244H&amp;H" >
+</CRS_I>
+<CRS_I obj=".25-06 REMINGTON" ref="res\par\CRS_I\2506REM.xml" ref2="res\ext_par\CRS_I\2506REM.xml" sh="TDW/obj_drw/CRS_I/25-06Rem/2506REM" >
+</CRS_I>
+<CRS_I obj=".25-20 WINCHESTER" ref="res\par\CRS_I\2520WIN.xml" ref2="res\ext_par\CRS_I\2520WIN.xml" sh="TDW/obj_drw/CRS_I/25-20Win/2520WIN" >
+</CRS_I>
+<CRS_I obj=".25-35 WIN" ref="res\par\CRS_I\2535.xml" ref2="res\ext_par\CRS_I\2535.xml" sh="TDW/obj_drw/CRS_I/2535Win/2535WIN" >
+</CRS_I>
+<CRS_I obj=".25-36 MARLIN" ref="res\par\CRS_I\2536.xml" ref2="res\ext_par\CRS_I\2536.xml" sh="TDW/obj_drw/CRS_I/2536Mar/2536MARLIN" >
+</CRS_I>
+<CRS_I obj=".250-3000 SAVAGE" ref="res\par\CRS_I\2503000.xml" ref2="res\ext_par\CRS_I\2503000.xml" sh="TDW/obj_drw/CRS_I/250-3000Savage/250-3000SAVAGE" >
+</CRS_I>
+<CRS_I obj=".256 WIN. MAG." ref="res\par\CRS_I\256WINMAG.xml" ref2="res\ext_par\CRS_I\256WINMAG.xml" sh="TDW/obj_drw/CRS_I/256WinMag/256WinMag" >
+</CRS_I>
+<CRS_I obj=".257 ROBERTS" ref="res\par\CRS_I\257BOB.xml" ref2="res\ext_par\CRS_I\257BOB.xml" sh="TDW/obj_drw/CRS_I/257Roberts/257BOB" >
+</CRS_I>
+<CRS_I obj=".257 WEATHERBY MAGNUM" ref="res\par\CRS_I\257WM.xml" ref2="res\ext_par\CRS_I\257WM.xml" sh="TDW/obj_drw/CRS_I/257WeatherbyMag/257WM" >
+</CRS_I>
+<CRS_I obj=".264 WIN. MAG." ref="res\par\CRS_I\264WINMAG.xml" ref2="res\ext_par\CRS_I\264WINMAG.xml" sh="TDW/obj_drw/CRS_I/264WinMag/264WINMAG" >
+</CRS_I>
+<CRS_I obj=".270 WEATHERBY MAGNUM" ref="res\par\CRS_I\270WM.xml" ref2="res\ext_par\CRS_I\270WM.xml" sh="TDW/obj_drw/CRS_I/270WeatherbyMag/270WM" >
+</CRS_I>
+<CRS_I obj=".270 BRITISH" ref="res\par\CRS_I\270B.xml" ref2="res\ext_par\CRS_I\270B.xml" >
+</CRS_I>
+<CRS_I obj=".276 ENFIELD" ref="res\par\CRS_I\276E.xml" ref2="res\ext_par\CRS_I\276E.xml" sh="TDW/obj_drw/CRS_I/276Enfield/276E" >
+</CRS_I>
+<CRS_I obj=".277 FURY" ref="res\par\CRS_I\277F.xml" ref2="res\ext_par\CRS_I\277F.xml" sh="TDW\obj_drw\CRS_I\277Fury\277F">
+</CRS_I>
+<CRS_I obj=".280 BRITISH" ref="res\par\CRS_I\280B.xml" ref2="res\ext_par\CRS_I\280B.xml" sh="TDW/obj_drw/CRS_I/280B/280B">
+</CRS_I>
+<CRS_I obj=".284 WINCHESTER" ref="res\par\CRS_I\284WIN.xml" ref2="res\ext_par\CRS_I\284WIN.xml" sh="TDW/obj_drw/CRS_I/284WIN/284WIN" >
+</CRS_I>
+<CRS_I obj=".30-03 SPRINGFIELD" ref="res\par\CRS_I\3003SPRF.xml" ref2="res\ext_par\CRS_I\3003SPRF.xml" sh="TDW/obj_drw/CRS_I/30-03Springfield/3003SPRF" >
+</CRS_I>
+<CRS_I obj=".30-06 SPRINGFIELD" ref="res\par\CRS_I\3006SPRF.xml" ref2="res\ext_par\CRS_I\3006SPRF.xml" sh="TDW/obj_drw/CRS_I/30-06Springfield/3006SPRF" >
+</CRS_I>
+<CRS_I obj=".30-20 WINCHESTER" ref="res\par\CRS_I\3020WIN.xml" ref2="res\ext_par\CRS_I\3020WIN.xml" sh="TDW/obj_drw/CRS_I/30-20WIN/3020WIN" >
+</CRS_I>
+<CRS_I obj=".30-30 WINCHESTER" ref="res\par\CRS_I\3030WIN.xml" ref2="res\ext_par\CRS_I\3030WIN.xml" sh="TDW/obj_drw/CRS_I/30-30Win/3030WIN" >
+</CRS_I>
+<CRS_I obj=".30 CARBINE" ref="res\par\CRS_I\30CAR.xml" ref2="res\ext_par\CRS_I\30CAR.xml" sh="TDW/obj_drw/CRS_I/30Carbine/30Carbine" >
+</CRS_I>
+<CRS_I N="2" obj=".300 WHISPER - AAC BLACKOUT" ref="res\par\CRS_I\300WA.xml" ref2="res\ext_par\CRS_I\300WA.xml" sh="TDW/obj_drw/CRS_I/300Whisper-AAC/300WA" >
+</CRS_I>
+<CRS_I obj=".300 WIN. MAG." ref="res\par\CRS_I\300WINMAG.xml" ref2="res\ext_par\CRS_I\300WINMAG.xml" sh="TDW/obj_drw/CRS_I/300WinMag/300WINMAG" >
+</CRS_I>
+<CRS_I obj=".303 BRITISH" ref="res\par\CRS_I\303B.xml" ref2="res\ext_par\CRS_I\303B.xml" sh="TDW/obj_drw/CRS_I/303British/303BRT" >
+</CRS_I>
+<CRS_I obj=".308 WINCHESTER" ref="res\par\CRS_I\308WIN.xml" ref2="res\ext_par\CRS_I\308WIN.xml" sh="TDW/obj_drw/CRS_I/308Win/308WIN" >
+</CRS_I>
+<CRS_I obj=".338 LAPUA MAGNUM" ref="res\par\CRS_I\338LAPUA.xml" ref2="res\ext_par\CRS_I\338LAPUA.xml" sh="TDW/obj_drw/CRS_I/338Lapua/338LAPUA" >
+</CRS_I>
+<CRS_I obj=".338 WIN. MAG." ref="res\par\CRS_I\338WINMAG.xml" ref2="res\ext_par\CRS_I\338WINMAG.xml" sh="TDW/obj_drw/CRS_I/338WinMag/338WINMAG" >
+</CRS_I>
+<CRS_I obj=".35 WHELEN" ref="res\par\CRS_I\35WH.xml" ref2="res\ext_par\CRS_I\35WH.xml" sh="TDW/obj_drw/CRS_I/35WH/35WH" >
+</CRS_I>
+<CRS_I obj=".350 RIGBY" ref="res\par\CRS_I\350R.xml" ref2="res\ext_par\CRS_I\350R.xml" sh="TDW/obj_drw/CRS_I/350R/350R" >
+</CRS_I>
+<CRS_I obj=".350 REMINGTON" ref="res\par\CRS_I\350REM.xml" ref2="res\ext_par\CRS_I\350REM.xml" sh="TDW/obj_drw/CRS_I/350REM/350REM" >
+</CRS_I>
+<CRS_I obj=".351 WIN. SELF LOADING" ref="res\par\CRS_I\351WINSL.xml" ref2="res\ext_par\CRS_I\351WINSL.xml" sh="TDW/obj_drw/CRS_I/351WINSL/351WINSL" >
+</CRS_I>
+<CRS_I obj=".356 WINCHESTER" ref="res\par\CRS_I\356WIN.xml" ref2="res\ext_par\CRS_I\356WIN.xml" sh="TDW/obj_drw/CRS_I/356WIN/356WIN" >
+</CRS_I>
+<CRS_I obj=".358 WINCHESTER" ref="res\par\CRS_I\358WIN.xml" ref2="res\ext_par\CRS_I\358WIN.xml" sh="TDW/obj_drw/CRS_I/358WIN/358WIN" >
+</CRS_I>
+<CRS_I obj=".358 NORMA" ref="res\par\CRS_I\358NORMA.xml" ref2="res\ext_par\CRS_I\358NORMA.xml" sh="TDW/obj_drw/CRS_I/358NORMA/358NORMA" >
+</CRS_I>
+<CRS_I obj=".360 No2 NITRO EXPRESS" ref="res\par\CRS_I\360NO2.xml" ref2="res\ext_par\CRS_I\360NO2.xml" sh="TDW/obj_drw/CRS_I/360NO2/360NO2" >
+</CRS_I>
+<CRS_I obj=".360 No5 ROOK" ref="res\par\CRS_I\360NO5.xml" ref2="res\ext_par\CRS_I\360NO5.xml" sh="TDW/obj_drw/CRS_I/360NO5/360NO5" >
+</CRS_I>
+<CRS_I obj=".369 NITRO EXPRESS" ref="res\par\CRS_I\369NE.xml" ref2="res\ext_par\CRS_I\369NE.xml" sh="TDW/obj_drw/CRS_I/369NE/369NE" >
+</CRS_I>
+<CRS_I obj=".375 H&amp;H MAGNUM " ref="res\par\CRS_I\375H&amp;HMAG.xml" ref2="res\ext_par\CRS_I\375H&amp;HMAG.xml" sh="TDW/obj_drw/CRS_I/375H&amp;HMag/375H&amp;HMAG" >
+</CRS_I>
+<CRS_I obj=".376 STEYR " ref="res\par\CRS_I\376STEYR.xml" ref2="res\ext_par\CRS_I\376STEYR.xml" sh="TDW/obj_drw/CRS_I/376/376STEYR" >
+</CRS_I>
+<CRS_I obj=".400/350 NITRO EXPRESS " ref="res\par\CRS_I\400-350.xml" ref2="res\ext_par\CRS_I\400-350.xml" sh="TDW/obj_drw/CRS_I/400-350NE/400-350NE" >
+</CRS_I>
+<CRS_I obj=".400/360 NITRO EXPRESS " ref="res\par\CRS_I\400-360.xml" ref2="res\ext_par\CRS_I\400-360.xml" sh="TDW/obj_drw/CRS_I/400-360NE/400-360NE" >
+</CRS_I>
+<CRS_I obj=".408 CHEY.TAC" ref="res\par\CRS_I\408CHEYTAC.xml" ref2="res\ext_par\CRS_I\408CHEYTAC.xml" sh="TDW/obj_drw/CRS_I/408CheyTac/408CHEYTAC" >
+</CRS_I>
+<CRS_I obj=".416 BARRETT" ref="res\par\CRS_I\416BRT.xml" ref2="res\ext_par\CRS_I\416BRT.xml"  > <!-- sh="TDW/obj_drw/CRS_I/416Barrett/416BRT" -->
+</CRS_I>
+<CRS_I obj=".44-40 WINCHESTER" ref="res\par\CRS_I\44-40WIN.xml" ref2="res\ext_par\CRS_I\44-40WIN.xml" sh="TDW/obj_drw/CRS_I/44-40WIN/44-40WIN" >
+</CRS_I>
+<CRS_I obj=".450 BUSHMASTER" ref="res\par\CRS_I\450BM.xml" ref2="res\ext_par\CRS_I\450BM.xml" sh="TDW/obj_drw/CRS_I/450Bushmaster/450BM" >
+</CRS_I>
+<CRS_I obj=".450 MARLIN" ref="res\par\CRS_I\450M.xml" ref2="res\ext_par\CRS_I\450M.xml" sh="TDW/obj_drw/CRS_I/450Marlin/450M" >
+</CRS_I>
+<!-- Ammo Rifles mm -->
+<CRS_M obj="4,5x26" ref="res\par\CRS_M\4,5x26.xml" ref2="res\ext_par\CRS_M\4,5x26.xml" sh="TDW/obj_drw/CRS_M/4,5x26/4,5x26" >
+</CRS_M>
+<CRS_M obj="4,6x36" ref="res\par\CRS_M\4,6x36.xml" ref2="res\ext_par\CRS_M\4,6x36.xml" sh="TDW/obj_drw/CRS_M/4,6x36/4,6x36" >
+</CRS_M>
+<CRS_M obj="4,85x49" ref="res\par\CRS_M\4,85x49.xml" ref2="res\ext_par\CRS_M\4,85x49.xml" sh="TDW/obj_drw/CRS_M/4,85x49/4,85x49" >
+</CRS_M>
+<CRS_M obj="5mm/35 SMc" ref="res\par\CRS_M\5-35SMC.xml" ref2="res\ext_par\CRS_M\5-35SMC.xml" sh="TDW/obj_drw/CRS_M/5-35/5-35" >
+</CRS_M>
+<CRS_M obj="5,45x39" ref="res\par\CRS_M\5,45x39.xml" ref2="res\ext_par\CRS_M\5,45x39.xml" sh="TDW/obj_drw/CRS_M/5,45x39/5,45x39" >
+</CRS_M>	
+<CRS_M obj="5,45x39 PSP" ref="res\par\CRS_M\5,45x39.xml" ref2="res\ext_par\CRS_M\5,45x39PSP.xml" sh="TDW/obj_drw/CRS_M/5,45x39PSP/5,45x39" >
+</CRS_M>
+<CRS_M obj="5,56x45 NATO" ref="res\par\CRS_M\5,56x45.xml" ref2="res\ext_par\CRS_M\5,56x45.xml" sh="TDW/obj_drw/CRS_M/5,56x45NATO/5,56NATO" >
+</CRS_M>		
+<CRS_M obj="5,56x49 (.22-250 REM)" ref="res\par\CRS_M\5,56x49.xml" ref2="res\ext_par\CRS_M\5,56x49.xml" sh="TDW/obj_drw/CRS_M/5,56x49/5,56x49" >
+</CRS_M>
+<CRS_M obj="5,6x39 (.220 Russian)" ref="res\par\CRS_M\5,6x39.xml" ref2="res\ext_par\CRS_M\5,6x39.xml" sh="TDW/obj_drw/CRS_M/5,6x39/5,6x39" >
+</CRS_M>	
+<CRS_M obj="5,6x50" ref="res\par\CRS_M\5,6x50.xml" ref2="res\ext_par\CRS_M\5,6x50.xml" sh="TDW/obj_drw/CRS_M/5,6x50/5,6x50" >
+</CRS_M>	
+<CRS_M obj="5,6x52(.22 Savage)" ref="res\par\CRS_M\5,6x52.xml" ref2="res\ext_par\CRS_M\5,6x52.xml" sh="TDW/obj_drw/CRS_M/5,6x52(22Savage)/5,6x52" >
+</CRS_M>	
+<CRS_M obj="5,6x57" ref="res\par\CRS_M\5,6x57.xml" ref2="res\ext_par\CRS_M\5,6x57.xml" sh="TDW/obj_drw/CRS_M/5,6x57/5,6x57" >
+</CRS_M>	
+<CRS_M obj="5,6x61 VHSE" ref="res\par\CRS_M\5,6x61.xml" ref2="res\ext_par\CRS_M\5,6x61.xml" sh="TDW/obj_drw/CRS_M/5,6x61/5,6x61" >
+</CRS_M>
+<CRS_M obj="5,8x42" ref="res\par\CRS_M\5,8x42.xml" ref2="res\ext_par\CRS_M\5,8x42.xml" sh="TDW/obj_drw/CRS_M/5,8x42/5,8x42" >
+</CRS_M>
+<CRS_M obj="6mm BENCH REST" ref="res\par\CRS_M\6mmBR.xml" ref2="res\ext_par\CRS_M\6mmBR.xml" sh="TDW/obj_drw/CRS_M/6mmBR/6mmBR" >
+</CRS_M>
+<CRS_M obj="6mm XC" ref="res\par\CRS_M\6mmXC.xml" ref2="res\ext_par\CRS_M\6mmXC.xml" sh="TDW/obj_drw/CRS_M/6mmXC/6mmXC" >
+</CRS_M>
+<CRS_M obj="6mm AR" ref="res\par\CRS_M\6mmAR.xml" ref2="res\ext_par\CRS_M\6mmAR.xml" sh="TDW/obj_drw/CRS_M/6mmAR/6mmAR" >
+</CRS_M>
+<CRS_M obj="6mm PPC" ref="res\par\CRS_M\6mmPPC.xml" ref2="res\ext_par\CRS_M\6mmPPC.xml" sh="TDW/obj_drw/CRS_M/6mmPPC/6mmPPC" >
+</CRS_M>
+<CRS_M obj="6mm LEE NAVY" ref="res\par\CRS_M\6mm.xml" ref2="res\ext_par\CRS_M\6mm.xml" sh="TDW/obj_drw/CRS_M/6mmLeeNavy/6mmNAVY" >
+</CRS_M>
+<CRS_M obj="6mm MUSGRAVE" ref="res\par\CRS_M\6M.xml" ref2="res\ext_par\CRS_M\6M.xml" sh="TDW/obj_drw/CRS_M/6mmMusgrave/6mmMus" >
+</CRS_M>
+<CRS_M obj="6x45 SAW" ref="res\par\CRS_M\6x45.xml" ref2="res\ext_par\CRS_M\6x45.xml" sh="TDW/obj_drw/CRS_M/6X45/6x45S" >
+</CRS_M>
+<CRS_M obj="6x45mm" ref="res\par\CRS_M\6x45mm.xml" ref2="res\ext_par\CRS_M\6x45mm.xml" sh="TDW/obj_drw/CRS_M/6X45mm/6x45" >
+</CRS_M>
+<CRS_M obj="6,45x48 XPL" ref="res\par\CRS_M\6,45x48.xml" ref2="res\ext_par\CRS_M\6,45x48.xml" sh="TDW/obj_drw/CRS_M/6,45x48/6,45x48" >
+</CRS_M>
+<CRS_M obj="6,5-06 A-SQUARE" ref="res\par\CRS_M\6,5-06.xml" ref2="res\ext_par\CRS_M\6,5-06.xml" sh="TDW/obj_drw/CRS_M/6,5-06/6,5-06" >
+</CRS_M>
+<CRS_M obj="6,5 CREEDMOOR" ref="res\par\CRS_M\6,5.xml" ref2="res\ext_par\CRS_M\6,5.xml" sh="TDW/obj_drw/CRS_M/6,5mm/6,5mm" >
+</CRS_M>
+<CRS_M obj="6,5 REMINGTON MAG" ref="res\par\CRS_M\6,5REM.xml" ref2="res\ext_par\CRS_M\6,5REM.xml" sh="TDW/obj_drw/CRS_M/6,5REM/6,5REM" >
+</CRS_M>
+<CRS_M obj="6,5x39 GRENDEL" ref="res\par\CRS_M\6,5x39.xml" ref2="res\ext_par\CRS_M\6,5x39.xml" sh="TDW/obj_drw/CRS_M/6,5mmGrendel/6,5x39" >
+</CRS_M>	
+<CRS_M obj="6,5x47 LAPUA" ref="res\par\CRS_M\6,5x47.xml" ref2="res\ext_par\CRS_M\6,5x47.xml" sh="TDW/obj_drw/CRS_M/6,5x47/6,5x47" >
+</CRS_M>	
+<CRS_M obj="6,5x50 ARISAKA" ref="res\par\CRS_M\6,5x50.xml" ref2="res\ext_par\CRS_M\6,5x50.xml" sh="TDW/obj_drw/CRS_M/6,5x50Arisaka/6,5x50" >
+</CRS_M>	
+<CRS_M obj="6,5x52 CARCANO" ref="res\par\CRS_M\6,5x52.xml" ref2="res\ext_par\CRS_M\6,5x52.xml" sh="TDW/obj_drw/CRS_M/6,5x52Carcano/6,5x52" >
+</CRS_M>
+<CRS_M obj="6,5x53mmR" ref="res\par\CRS_M\6,5x53.xml" ref2="res\ext_par\CRS_M\6,5x53.xml" sh="TDW/obj_drw/CRS_M/6,5x53/6,5x53" >
+</CRS_M>	
+<CRS_M obj="6,5x54 MANNLICHER-SCHÖNAUER" ref="res\par\CRS_M\6,5x54.xml" ref2="res\ext_par\CRS_M\6,5x54.xml" sh="TDW/obj_drw/CRS_M/6,5x54M-S/6,5x54" >
+</CRS_M>	
+<CRS_M obj="6,5x55 SWEDISH" ref="res\par\CRS_M\6,5x55.xml" ref2="res\ext_par\CRS_M\6,5x55.xml" sh="TDW/obj_drw/CRS_M/6,5x55Swedish/6,5x55" >
+</CRS_M>	
+<CRS_M obj="6,5x57 FEDOROV" ref="res\par\CRS_M\6,5x57.xml" ref2="res\ext_par\CRS_M\6,5x57.xml" sh="TDW/obj_drw/CRS_M/6,5X57Fedorov/6,5x57" >
+</CRS_M>	
+<CRS_M obj="6,5x57 MAUSER" ref="res\par\CRS_M\6,5x57MAUSER.xml" ref2="res\ext_par\CRS_M\6,5x57MAUSER.xml" sh="TDW/obj_drw/CRS_M/6,5X57MAUSER/6,5x57MAUSER" >
+</CRS_M>
+<CRS_M obj="6,5x58 VERGUEIRO" ref="res\par\CRS_M\6,5x58.xml" ref2="res\ext_par\CRS_M\6,5x58.xml" sh="TDW/obj_drw/CRS_M/6,5X58/6,5x58" >
+</CRS_M>	
+<CRS_M obj="6,5x68" ref="res\par\CRS_M\6,5x68.xml" ref2="res\ext_par\CRS_M\6,5x68.xml" sh="TDW/obj_drw/CRS_M/6,5X68/6,5x68" >
+</CRS_M>	
+<CRS_M obj="6,5x284 NORMA" ref="res\par\CRS_M\6,5x284.xml" ref2="res\ext_par\CRS_M\6,5x284.xml" sh="TDW/obj_drw/CRS_M/6,5X284/6,5x284" >
+</CRS_M>
+<CRS_M obj="6,8 SPC" ref="res\par\CRS_M\6,8SPC.xml" ref2="res\ext_par\CRS_M\6,8SPC.xml" sh="TDW/obj_drw/CRS_M/6,8SPC/6,8SPC" >
+</CRS_M>
+<CRS_M  obj="7mm SAUM " ref="res\par\CRS_M\7SAUM.xml" ref2="res\ext_par\CRS_M\7SAUM.xml" sh="TDW/obj_drw/CRS_M/7SAUM/7SAUM" >
+</CRS_M>
+<CRS_M  obj="7-08 REMINGTON" ref="res\par\CRS_M\7-08REM.xml" ref2="res\ext_par\CRS_M\7-30W.xml" sh="TDW/obj_drw/CRS_M/7-08Rem/7-08REM" >
+</CRS_M>
+<CRS_M  obj="7-30 WATERS" ref="res\par\CRS_M\7-30W.xml" ref2="res\ext_par\CRS_M\7-30W.xml"  >
+</CRS_M>
+<CRS_M  obj="7x57 MAUSER " ref="res\par\CRS_M\7x57.xml" ref2="res\ext_par\CRS_M\7x57.xml" sh="TDW/obj_drw/CRS_M/7Mauser/7Mauser" >
+</CRS_M>
+<CRS_M  obj="7,5x54 FRENCH (MAS) " ref="res\par\CRS_M\7French.xml" ref2="res\ext_par\CRS_M\7French.xml"  sh="TDW/obj_drw/CRS_M/7French/7French">
+</CRS_M>
+<CRS_M  obj="7,5x55 SWISS " ref="res\par\CRS_M\7,5Swiss.xml" ref2="res\ext_par\CRS_M\7,5Swiss.xml"  sh="TDW/obj_drw/CRS_M/7,5Swiss/7,5Swiss">
+</CRS_M>
+<CRS_M  obj="7,62x39 " ref="res\par\CRS_M\7,62x39.xml" ref2="res\ext_par\CRS_M\7,62x39.xml"  sh="TDW/obj_drw/CRS_M/7,62x39/7,62x39">
+</CRS_M>
+<CRS_M  obj="7,62x51 NATO " ref="res\par\CRS_M\7,62NATO.xml" ref2="res\ext_par\CRS_M\7,62NATO.xml"  sh="TDW/obj_drw/CRS_M/7,62NATO/7,62NATO">
+</CRS_M>
+<CRS_M  obj="7,62x54 mmR " ref="res\par\CRS_M\7,62x54.xml" ref2="res\ext_par\CRS_M\7,62x54.xml"  sh="TDW/obj_drw/CRS_M/7,62x54/7,62x54">
+</CRS_M>
+<CRS_M  obj="7,65x53 MAUSER " ref="res\par\CRS_M\7,65x53.xml" ref2="res\ext_par\CRS_M\7,65x53.xml"  sh="TDW/obj_drw/CRS_M/7,65x53/7,65x53">
+</CRS_M>
+<CRS_M  obj="7,7x58 ARISAKA " ref="res\par\CRS_M\7,7x58.xml" ref2="res\ext_par\CRS_M\7,7x58.xml"  sh="TDW/obj_drw/CRS_M/7,7x58/7,7">
+</CRS_M>
+<CRS_M  obj="7,92x57 MAUSER " ref="res\par\CRS_M\7,92x57.xml" ref2="res\ext_par\CRS_M\7,92x57.xml"  sh="TDW/obj_drw/CRS_M/7,92x57/7,92">
+</CRS_M>
+<CRS_M  obj="8x58 DANISH " ref="res\par\CRS_M\8x58.xml" ref2="res\ext_par\CRS_M\8x58.xml"  sh="TDW/obj_drw/CRS_M/8x58/8x58">
+</CRS_M>
+<CRS_M  obj="8x63 SWEDISH " ref="res\par\CRS_M\8x63.xml" ref2="res\ext_par\CRS_M\8x63.xml"  sh="TDW/obj_drw/CRS_M/8x63/8x63">
+</CRS_M>
+<CRS_M  obj="9x39 RUSSIAN " ref="res\par\CRS_M\9x39.xml" ref2="res\ext_par\CRS_M\9x39.xml"  sh="TDW/obj_drw/CRS_M/9x39/9x39">
+</CRS_M>
+
+<!-- Ammo Guns inches -->
+<PRS_I N="2" obj=".22 BB/CB" ref="res\par\PRS_I\22BB-CB.xml" ref2="res\ext_par\PRS_I\22BB-CB.xml" sh="TDW/obj_drw/PRS_I/22BB-CB/22BB-CB" >
+</PRS_I>
+<PRS_I N="2" obj=".22 LR" ref="res\par\PRS_I\22LR.xml" ref2="res\ext_par\PRS_I\22LR.xml" sh="TDW/obj_drw/PRS_I/22LR/22LR" >
+</PRS_I>
+<PRS_I obj=".25 ACP" ref="res\par\PRS_I\25ACP.xml" ref2="res\ext_par\PRS_I\25ACP.xml" sh="TDW/obj_drw/PRS_I/25ACP/25ACP" >
+</PRS_I>
+<PRS_I obj=".32 RIMFIRE" ref="res\par\PRS_I\32RIM.xml" ref2="res\ext_par\PRS_I\32RIM.xml" sh="TDW/obj_drw/PRS_I/32RIM/32RIM" >
+</PRS_I>
+<PRS_I obj=".32 ACP" ref="res\par\PRS_I\32ACP.xml" ref2="res\ext_par\PRS_I\32ACP.xml" sh="TDW/obj_drw/PRS_I/32ACP/32ACP" >
+</PRS_I>
+<PRS_I N="2" obj=".32 COLT" ref="res\par\PRS_I\32COLT.xml" ref2="res\ext_par\PRS_I\32COLT.xml" sh="TDW/obj_drw/PRS_I/32COLT/32COLT" >
+</PRS_I>
+<PRS_I obj=".32 NAA" ref="res\par\PRS_I\32NAA.xml" ref2="res\ext_par\PRS_I\32NAA.xml" sh="TDW/obj_drw/PRS_I/32NAA/32NAA" >
+</PRS_I>
+<PRS_I N="2" obj=".32 S&amp;W" ref="res\par\PRS_I\32SW.xml" ref2="res\ext_par\PRS_I\32SW.xml" sh="TDW/obj_drw/PRS_I/32SW/32SW" >
+</PRS_I>
+<PRS_I obj=".32 H&amp;R MAGNUM" ref="res\par\PRS_I\32HR.xml" ref2="res\ext_par\PRS_I\32HR.xml" sh="TDW/obj_drw/PRS_I/32HR/32HR" >
+</PRS_I>
+<PRS_I obj=".327 FEDERAL MAGNUM" ref="res\par\PRS_I\327F.xml" ref2="res\ext_par\PRS_I\327F.xml" sh="TDW/obj_drw/PRS_I/327Federal/327FM" >
+</PRS_I>
+<PRS_I obj=".356 TSW" ref="res\par\PRS_I\356TSW.xml" ref2="res\ext_par\PRS_I\356TSW.xml" sh="TDW/obj_drw/PRS_I/356TSW/356TSW" >
+</PRS_I>
+<PRS_I obj=".357/.44 BAIN &amp; DAVIS" ref="res\par\PRS_I\357-44.xml" ref2="res\ext_par\PRS_I\357-44.xml" sh="TDW/obj_drw/PRS_I/357-44/357-44" >
+</PRS_I>
+<PRS_I obj=".357 MAGNUM" ref="res\par\PRS_I\357MAG.xml" ref2="res\ext_par\PRS_I\357MAG.xml" sh="TDW/obj_drw/PRS_I/357MAG/357MAG" >
+</PRS_I>
+<PRS_I obj=".357 SIG" ref="res\par\PRS_I\357SIG.xml" ref2="res\ext_par\PRS_I\357SIG.xml" sh="TDW/obj_drw/PRS_I/357SIG/357SIG" >
+</PRS_I>
+<PRS_I obj=".357 REMINGTON MAXIMUM" ref="res\par\PRS_I\357REMMAX.xml" ref2="res\ext_par\PRS_I\357REMMAX.xml" sh="TDW/obj_drw/PRS_I/357REMMAX/357REMMAX" >
+</PRS_I>
+<PRS_I obj=".38 S&amp;W" ref="res\par\PRS_I\38SW.xml" ref2="res\ext_par\PRS_I\38SW.xml" sh="TDW/obj_drw/PRS_I/38SW/38SW" >
+</PRS_I>
+<PRS_I obj=".38 SPECIAL" ref="res\par\PRS_I\38SPL.xml" ref2="res\ext_par\PRS_I\38SPL.xml" sh="TDW/obj_drw/PRS_I/38SPECIAL/38SPL" >
+</PRS_I>
+<PRS_I obj=".38 ACP" ref="res\par\PRS_I\38ACP.xml" ref2="res\ext_par\PRS_I\38ACP.xml" sh="TDW/obj_drw/PRS_I/38ACP/38ACP" >
+</PRS_I>
+<PRS_I obj=".38 LONG COLT" ref="res\par\PRS_I\38LC.xml" ref2="res\ext_par\PRS_I\38LC.xml" sh="TDW/obj_drw/PRS_I/38LC/38LC" >
+</PRS_I>
+<PRS_I obj=".38 SUPER" ref="res\par\PRS_I\38SUPER.xml" ref2="res\ext_par\PRS_I\38SUPER.xml" sh="TDW/obj_drw/PRS_I/38SUPER/38SUPER" >
+</PRS_I>
+<PRS_I obj=".380 ACP" ref="res\par\PRS_I\380ACP.xml" ref2="res\ext_par\PRS_I\380ACP.xml" sh="TDW/obj_drw/PRS_I/380ACP/380ACP" >
+</PRS_I>
+<PRS_I obj=".380 LONG" ref="res\par\PRS_I\380L.xml" ref2="res\ext_par\PRS_I\380L.xml" sh="TDW/obj_drw/PRS_I/380L/380L" >
+</PRS_I>
+<PRS_I obj=".38-40 WINCHESTER" ref="res\par\PRS_I\3840WIN.xml" ref2="res\ext_par\PRS_I\3840WIN.xml" sh="TDW/obj_drw/PRS_I/3840WIN/3840WIN" >
+</PRS_I>
+<PRS_I obj=".400 CORBON" ref="res\par\PRS_I\400COR.xml" ref2="res\ext_par\PRS_I\400COR.xml" sh="TDW/obj_drw/PRS_I/400CORBON/400COR" >
+</PRS_I>
+<PRS_I obj=".40 S&amp;W" ref="res\par\PRS_I\40SW.xml" ref2="res\ext_par\PRS_I\40SW.xml" sh="TDW/obj_drw/PRS_I/40SW/40SW" >
+</PRS_I>
+<PRS_I obj=".41 RIMFIRE (SHORT)" ref="res\par\PRS_I\41RIM.xml" ref2="res\ext_par\PRS_I\41RIM.xml" sh="TDW/obj_drw/PRS_I/41RIM/41RIM" >
+</PRS_I>
+<PRS_I obj=".41 ACTION EXPRESS" ref="res\par\PRS_I\41AE.xml" ref2="res\ext_par\PRS_I\41AE.xml" sh="TDW/obj_drw/PRS_I/41AE/41AE" >
+</PRS_I>
+<PRS_I obj=".41 REM. MAG." ref="res\par\PRS_I\41REM.xml" ref2="res\ext_par\PRS_I\41REM.xml" sh="TDW/obj_drw/PRS_I/41REM/41REM" >
+</PRS_I>
+<PRS_I obj=".44 MAGNUM" ref="res\par\PRS_I\44MAG.xml" ref2="res\ext_par\PRS_I\44MAG.xml" sh="TDW/obj_drw/PRS_I/44MAG/44MAG" >
+</PRS_I>
+<PRS_I obj=".440 CORBON" ref="res\par\PRS_I\440CORBON.xml" ref2="res\ext_par\PRS_I\440CORBON.xml" sh="TDW/obj_drw/PRS_I/440CORBON/440CORBON" >
+</PRS_I>
+<PRS_I obj=".442 WEBLEY" ref="res\par\PRS_I\442WEB.xml" ref2="res\ext_par\PRS_I\442WEB.xml" sh="TDW/obj_drw/PRS_I/442WEB/442WEB" >
+</PRS_I>
+<PRS_I N="2" obj=".45 ACP" ref="res\par\PRS_I\45ACP.xml" ref2="res\ext_par\PRS_I\45ACP.xml" sh="TDW/obj_drw/PRS_I/45ACP/45ACP" >
+</PRS_I>
+<PRS_I obj=".45 COLT" ref="res\par\PRS_I\45COLT.xml" ref2="res\ext_par\PRS_I\45COLT.xml" sh="TDW/obj_drw/PRS_I/45COLT/45COLT" >
+</PRS_I>
+<PRS_I obj=".45 GAP" ref="res\par\PRS_I\45GAP.xml" ref2="res\ext_par\PRS_I\45GAP.xml" sh="TDW/obj_drw/PRS_I/45GAP/45GAP" >
+</PRS_I>
+<PRS_I obj=".45 S&amp;W SCHOFIELD" ref="res\par\PRS_I\45SW.xml" ref2="res\ext_par\PRS_I\45SW.xml" sh="TDW/obj_drw/PRS_I/45SW/45SW" >
+</PRS_I>
+<PRS_I obj=".450 ADAMS" ref="res\par\PRS_I\450ADAMS.xml" ref2="res\ext_par\PRS_I\450ADAMS.xml" sh="TDW/obj_drw/PRS_I/450A/450A" >
+</PRS_I>
+<PRS_I obj=".451 DETONICS MAGNUM" ref="res\par\PRS_I\451DM.xml" ref2="res\ext_par\PRS_I\451DM.xml" sh="TDW/obj_drw/PRS_I/451DM/451DM" >
+</PRS_I>
+<PRS_I obj=".454 CASULL" ref="res\par\PRS_I\454CASULL.xml" ref2="res\ext_par\PRS_I\454CASULL.xml" sh="TDW/obj_drw/PRS_I/454CASULL/454CASULL" >
+</PRS_I>
+<PRS_I N="2" obj=".455 WEBLEY" ref="res\par\PRS_I\455WEB.xml" ref2="res\ext_par\PRS_I\455WEB.xml" sh="TDW/obj_drw/PRS_I/455Webley/455WEB" >
+</PRS_I>
+<PRS_I obj=".460 S&amp;W MAGNUM" ref="res\par\PRS_I\460SW.xml" ref2="res\ext_par\PRS_I\460SW.xml" sh="TDW/obj_drw/PRS_I/460SW/460SW" >
+</PRS_I>
+<PRS_I obj=".475 LINEBAUGH" ref="res\par\PRS_I\475L.xml" ref2="res\ext_par\PRS_I\475L.xml" sh="TDW/obj_drw/PRS_I/475L/475L" >
+</PRS_I>
+<PRS_I obj=".475 WILDEY MAGNUM" ref="res\par\PRS_I\475WILDEY.xml" ref2="res\ext_par\PRS_I\475WILDEY.xml" sh="TDW/obj_drw/PRS_I/475WILDEY/475WILDEY" >
+</PRS_I>
+<PRS_I obj=".480 RUGER" ref="res\par\PRS_I\480R.xml" ref2="res\ext_par\PRS_I\480R.xml" sh="TDW/obj_drw/PRS_I/480Ruger/480R" >
+</PRS_I>
+
+
+
+<!-- Ammo Guns mm -->
+<PRS_M obj="2.7mm KOLIBRI" ref="res\par\PRS_M\2,7mm.xml" ref2="res\ext_par\PRS_M\2,7mm.xml" sh="TDW/obj_drw/PRS_M/2,7mmKolibri/2,7mm" >
+</PRS_M>
+<PRS_M obj="3mm KOLIBRI" ref="res\par\PRS_M\3mm.xml" ref2="res\ext_par\PRS_M\3mm.xml" sh="TDW/obj_drw/PRS_M/3mmKolibri/3mm" >
+</PRS_M>
+<PRS_M obj="4,25mm LILIPUT" ref="res\par\PRS_M\4,25.xml" ref2="res\ext_par\PRS_M\4,25.xml" sh="TDW/obj_drw/PRS_M/4,25mmLiliput/4,25mm" >
+</PRS_M>
+<PRS_M obj="4,38 LIBRA" ref="res\par\PRS_M\4,38x30.xml" ref2="res\ext_par\PRS_M\4,38x30.xml" sh="TDW/obj_drw/PRS_M/4,38LIBRA/4,38x30" >
+</PRS_M>
+<PRS_M obj="4,6x30 HK" ref="res\par\PRS_M\4,6x30.xml" ref2="res\ext_par\PRS_M\4,6x30.xml" sh="TDW/obj_drw/PRS_M/4,6x30HK/4,6x30HK" >
+</PRS_M>
+<PRS_M obj="5mm REM. RIMFIRE" ref="res\par\PRS_M\5mmRR.xml" ref2="res\ext_par\PRS_M\5mmRR.xml" sh="TDW/obj_drw/PRS_M/5mmRR/5mmRR" >
+</PRS_M>
+<PRS_M obj="5mm BERGMANN" ref="res\par\PRS_M\5mmBERG.xml" ref2="res\ext_par\PRS_M\5mmBERG.xml" sh="TDW/obj_drw/PRS_M/5mmBERG/5mmBERG" >
+</PRS_M>
+<PRS_M obj="5mm CLEMENT (5.45x18)" ref="res\par\PRS_M\5mmCLEM.xml" ref2="res\ext_par\PRS_M\5mmCLEM.xml" sh="TDW/obj_drw/PRS_M/5mmCLEM/5mmCLEM" >
+</PRS_M>
+<PRS_M obj="5,45x18" ref="res\par\PRS_M\5,45x18.xml" ref2="res\ext_par\PRS_M\5,45x18.xml" sh="TDW/obj_drw/PRS_M/5,45x18/5,45x18" >
+</PRS_M>
+<PRS_M obj="5,56x21 PINDAD" ref="res\par\PRS_M\5,56PINDAD.xml" ref2="res\ext_par\PRS_M\5,56PINDAD.xml" sh="" >
+</PRS_M>
+<PRS_M obj="5,56x30 MINSAS" ref="res\par\PRS_M\5,56MINSAS.xml" ref2="res\ext_par\PRS_M\5,56MINSAS.xml" sh="" >
+</PRS_M>
+<PRS_M obj="5,7x28 FN" ref="res\par\PRS_M\5,7x28.xml" ref2="res\ext_par\PRS_M\5,7x28.xml" sh="TDW/obj_drw/PRS_M/5,7x28FN/5,7x28FN" >
+</PRS_M>
+<PRS_M obj="5,8x21" ref="res\par\PRS_M\5,8x21.xml" ref2="res\ext_par\PRS_M\5,8x21.xml" sh="TDW/obj_drw/PRS_M/5,8x21/5,8x21" >
+</PRS_M>
+<PRS_M obj="6,5mm BERGMANN" ref="res\par\PRS_M\6,5.xml" ref2="res\ext_par\PRS_M\6,5.xml" sh="TDW/obj_drw/PRS_M/6,5Bergmann/6,5B" >
+</PRS_M>
+<PRS_M obj="6,5 x 25 CBJ" ref="res\par\PRS_M\6,5CBJ.xml" ref2="res\ext_par\PRS_M\6,5CBJ.xml" >
+</PRS_M>
+<PRS_M obj="7mm PENNA" ref="res\par\PRS_M\7PENNA.xml" ref2="res\ext_par\PRS_M\7PENNA.xml" sh="TDW/obj_drw/PRS_M/7PENNA/7PENNA" >
+</PRS_M>
+<PRS_M obj="7x20 NAMBU" ref="res\par\PRS_M\7x20.xml" ref2="res\ext_par\PRS_M\7x20.xml" sh="TDW/obj_drw/PRS_M/7x20Nambu/7x20" >
+</PRS_M>
+<PRS_M obj="7,5 FK" ref="res\par\PRS_M\7,5FK.xml" ref2="res\ext_par\PRS_M\7,5FK.xml" sh="TDW/obj_drw/PRS_M/7,5FK/7,5" >
+</PRS_M>
+<PRS_M obj="7,62x25 TOKAREV" ref="res\par\PRS_M\7,62x25.xml" ref2="res\ext_par\PRS_M\7,62x25.xml" sh="TDW/obj_drw/PRS_M/7,62x25Tokarev/7,62x25TOKAREV" >
+</PRS_M>
+<PRS_M obj="7,62x38 NAGANT" ref="res\par\PRS_M\7,62x38.xml" ref2="res\ext_par\PRS_M\7,62x38.xml" sh="TDW/obj_drw/PRS_M/7,62x38Nagant/7,62NAGANT" >
+</PRS_M>
+<PRS_M obj="7,62x42 SP-4" ref="res\par\PRS_M\7,62x42.xml" ref2="res\ext_par\PRS_M\7,62x42.xml"  >
+</PRS_M>
+<PRS_M obj="7,63x25 MAUSER" ref="res\par\PRS_M\7,63x25.xml"  ref2="res\ext_par\PRS_M\7,63x25.xml" sh="TDW/obj_drw/PRS_M/7,63x25/7,63x25" >
+</PRS_M>
+<PRS_M obj="7,65 LONGUE" ref="res\par\PRS_M\7,65.xml" ref2="res\ext_par\PRS_M\7,65.xml" sh="TDW/obj_drw/PRS_M/7,65Longue/7,65LONGUE" >
+</PRS_M>
+<PRS_M obj="7,65 ROTH-SAUER" ref="res\par\PRS_M\7,65RS.xml" ref2="res\ext_par\PRS_M\7,65RS.xml" sh="TDW/obj_drw/PRS_M/7,65RS/7,65RS" >
+</PRS_M>
+<PRS_M obj="7,65x21 MANNLICHER" ref="res\par\PRS_M\7,65x21.xml" ref2="res\ext_par\PRS_M\7,65x21.xml" sh="TDW/obj_drw/PRS_M/7,65x21/7,65x21" >
+</PRS_M>
+<PRS_M obj="7,65x21 PARA" ref="res\par\PRS_M\7,65P.xml" ref2="res\ext_par\PRS_M\7,65P.xml" sh="TDW/obj_drw/PRS_M/7,65x21Parabellum/7,65PARA" >
+</PRS_M>
+<PRS_M obj="7,65x25 BORCHARDT" ref="res\par\PRS_M\7,65x25.xml" ref2="res\ext_par\PRS_M\7,65x25.xml" sh="TDW/obj_drw/PRS_M/7,65x25/7,65x25" >
+</PRS_M>
+<PRS_M obj="7,92x33 KURZ" ref="res\par\PRS_M\7,92x33.xml" ref2="res\ext_par\PRS_M\7,92x33.xml" sh="TDW/obj_drw/PRS_M/7,92x33/7,92x33" >
+</PRS_M>
+<PRS_M obj="8,5 MARS" ref="res\par\PRS_M\8,5Mars.xml" ref2="res\ext_par\PRS_M\8,5Mars.xml"  > <!--sh="TDW/obj_drw/PRS_M/8,5Mars/8,5Mars"-->
+</PRS_M>
+<PRS_M obj="8x22 NAMBU" ref="res\par\PRS_M\8Nambu.xml" ref2="res\ext_par\PRS_M\8Nambu.xml" sh="TDW/obj_drw/PRS_M/8Nambu/8Nambu" >
+</PRS_M>
+<PRS_M obj="9mm BROWNING LONG" ref="res\par\PRS_M\9BL.xml" ref2="res\ext_par\PRS_M\9BL.xml" sh="TDW/obj_drw/PRS_M/9BL/9BL" >
+</PRS_M>
+<PRS_M obj="9mm GLISENTI" ref="res\par\PRS_M\9G.xml" ref2="res\ext_par\PRS_M\9G.xml" sh="TDW/obj_drw/PRS_M/9G/9G" >
+</PRS_M>
+<PRS_M obj="9mm JAPANESE REVOLVER" ref="res\par\PRS_M\9J.xml" ref2="res\ext_par\PRS_M\9J.xml" sh="TDW/obj_drw/PRS_M/9J/9J" >
+</PRS_M>
+<PRS_M obj="9mm MARS" ref="res\par\PRS_M\9M.xml" ref2="res\ext_par\PRS_M\9M.xml" sh="TDW/obj_drw/PRS_M/9M/9M" >
+</PRS_M>
+<PRS_M obj="9mm P.A.K." ref="res\par\PRS_M\9PAK.xml" ref2="res\ext_par\PRS_M\9PAK.xml" sh="TDW/obj_drw/PRS_M/9PAK/9PAK" >
+</PRS_M>
+<PRS_M obj="9mm WIN. MAG." ref="res\par\PRS_M\9WINMAG.xml" ref2="res\ext_par\PRS_M\9WINMAG.xml" sh="TDW/obj_drw/PRS_M/9WINMAG/9WINMAG" >
+</PRS_M>
+<PRS_M obj="9x18 MAKAROV" ref="res\par\PRS_M\9x18.xml" ref2="res\ext_par\PRS_M\9x18.xml" sh="TDW/obj_drw/PRS_M/9x18/9x18" >
+</PRS_M>
+<PRS_M obj="9x18 ULTRA" ref="res\par\PRS_M\9Ultra.xml" ref2="res\ext_par\PRS_M\9Ultra.xml" sh="TDW/obj_drw/PRS_M/9Ultra/9Ultra" >
+</PRS_M>
+<PRS_M obj="9x19 PARABELLUM" ref="res\par\PRS_M\9x19.xml" ref2="res\ext_par\PRS_M\9x19.xml" sh="TDW/obj_drw/PRS_M/9x19/9Para" >
+</PRS_M>
+<PRS_M obj="9x21 IMI" ref="res\par\PRS_M\9x21.xml" ref2="res\ext_par\PRS_M\9x21.xml" sh="TDW/obj_drw/PRS_M/9x21/9IMI" >
+</PRS_M>
+<PRS_M obj="9x21 GYURZA" ref="res\par\PRS_M\9x21G.xml" ref2="res\ext_par\PRS_M\9x21G.xml" sh="TDW/obj_drw/PRS_M/9x21G/9x21G" >
+</PRS_M>
+<PRS_M obj="9x23 WINCHESTER" ref="res\par\PRS_M\9Win.xml" ref2="res\ext_par\PRS_M\9Win.xml" sh="TDW/obj_drw/PRS_M/9Win/9Win" >
+</PRS_M>
+<PRS_M obj="9x23 STEYR" ref="res\par\PRS_M\9x23S.xml" ref2="res\ext_par\PRS_M\9x23S.xml" sh="TDW/obj_drw/PRS_M/9x23S/9x23S" >
+</PRS_M>
+<PRS_M obj="9x23 LARGO" ref="res\par\PRS_M\9x23.xml" ref2="res\ext_par\PRS_M\9x23.xml" sh="TDW/obj_drw/PRS_M/9x23/9Largo" >
+</PRS_M>
+<PRS_M obj="9x25 DILLON" ref="res\par\PRS_M\9x25D.xml" ref2="res\ext_par\PRS_M\9x25D.xml" sh="TDW/obj_drw/PRS_M/9x25D/9x25D" >
+</PRS_M>
+<PRS_M obj="9x25 MAUSER" ref="res\par\PRS_M\9x25M.xml" ref2="res\ext_par\PRS_M\9x25M.xml" sh="TDW/obj_drw/PRS_M/9x25M/9x25M" >
+</PRS_M>
+<PRS_M obj="9x25 SUPER AUTO G" ref="res\par\PRS_M\9x25SAG.xml" ref2="res\ext_par\PRS_M\9x25SAG.xml" sh="TDW/obj_drw/PRS_M/9x25SAG/9x25SAG" >
+</PRS_M>
+<PRS_M obj="10mm AUTO" ref="res\par\PRS_M\10Auto.xml" ref2="res\ext_par\PRS_M\10Auto.xml" sh="TDW/obj_drw/PRS_M/10Auto/10Auto" >
+</PRS_M>
+<PRS_M obj="10.4 SWISS CENTERFIRE" ref="res\par\PRS_M\10,4S.xml" ref2="res\ext_par\PRS_M\10,4S.xml" sh="TDW/obj_drw/PRS_M/10,4S/10,4S" >
+</PRS_M>
+<PRS_M obj="10.6x25mmR" ref="res\par\PRS_M\10,6x25.xml" ref2="res\ext_par\PRS_M\10,6x25.xml" sh="TDW/obj_drw/PRS_M/10,6x25/10,6x25" >
+</PRS_M>
+
+<!-- Ammo +.50 in (12.7 mm) --> 
+<BC obj=".410 BORE" ref="res\par\BC\410BORE.xml" ref2="res\ext_par\BC\410BORE.xml" sh="TDW/obj_drw/BC/410/410BORE" >
+</BC>
+<BC obj=".50 AE" ref="res\par\BC\50AE.xml" ref2="res\ext_par\BC\50AE.xml" sh="TDW/obj_drw/BC/50AE/50AE" >
+</BC>
+<BC obj=".50-70 GOVERNMENT" ref="res\par\BC\5070GOV.xml" ref2="res\ext_par\BC\5070GOV.xml" sh="TDW/obj_drw/BC/50-70Government/5070GOV" >
+</BC>
+<BC obj=".50 BMG (12.7x99)" ref="res\par\BC\50BMG.xml" ref2="res\ext_par\BC\50BMG.xml" sh="TDW/obj_drw/BC/50BMG/50BMG">
+</BC>
+<BC N="2" obj=".500 S&amp;W MAG./SPC." ref="res\par\BC\500SW.xml" ref2="res\ext_par\BC\500SW.xml" sh="TDW/obj_drw/BC/500SW/500SW">
+</BC>
+<BC obj=".55 BOYS" ref="res\par\BC\55BOYS.xml" ref2="res\ext_par\BC\55BOYS.xml" sh="TDW/obj_drw/BC/55BOYS/55BOYS">
+</BC>
+<BC obj=".700 NITRO EXPRESS" ref="res\par\BC\700NE.xml" ref2="res\ext_par\BC\700NE.xml" sh="TDW/obj_drw/BC/700NE/700NE">
+</BC>
+
+</parent>
