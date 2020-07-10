@@ -1,0 +1,20 @@
+<parameters>
+<b id="0">.224 in (5.7 mm)</b><!--Bullet Diameter:-->
+<b id="1">.248 in (6.3 mm)MKII - .250 in (6.35 mm)MKI </b><!--Neck Diameter:-->
+<b id="2">.450 in (11.43 mm)MKII - .454 in (11.53 mm)MKI</b><!--Shoulder Diameter -->
+<b id="3">.465 in (11.81 mm)MKII - .470 in (11.94 mm)MKI</b><!--Base Diameter:-->
+<b id="4">.469 in (11.91 mm)MKII - .473 in (12.01 mm)MKI</b><!--Rim Diameter:-->
+<!--Rim Thickness:-->
+<b id="6">2.02 in (51.31 mm)MKII - 1.986 in (50.44 mm)MKI</b><!--Case Length:-->
+<!--Overall Length:-->
+<!--Case Capacity:-->
+
+<b id="11"></b>
+<!--
+id="9">Primer Small Pistol
+id="10">Primer Large Pistol
+id="11">Primer Small Rifle
+id="12">Primer Large Rifle
+id="13">Rimfire
+-->
+</parameters>

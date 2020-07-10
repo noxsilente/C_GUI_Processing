@@ -1,0 +1,20 @@
+<parameters>
+<b id="0">.245 in (6.2 mm)</b><!--Bullet Diameter:-->
+<b id="1">.274 in (7.0 mm)</b><!--Neck Diameter:-->
+<b id="2">.402 in (10.2 mm)</b><!--Shoulder Diameter -->
+<b id="3">.448 in (11.4 mm)</b><!--Base Diameter:-->
+<b id="4">.513 in (13.0 mm)</b><!--Rim Diameter:-->
+<!--Rim Thickness:-->
+<b id="6">2.5 in (64 mm)</b><!--Case Length:-->
+<b id="7">3.25 in (83 mm)</b><!--Overall Length:-->
+<!--Case Capacity:-->
+<b id="11"> Berdan</b>
+
+<!--
+id="9">Primer Small Pistol
+id="10">Primer Large Pistol
+id="11">Primer Small Rifle
+id="12">Primer Large Rifle
+id="13">Rimfire
+-->
+</parameters>
